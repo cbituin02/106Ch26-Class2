@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+main {
+    display: flex;
+}
+
+#list {
+    flex: 3;
+}
+
+#foerm {
+    flex: 2;
+}
+
+#iImportant {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+#iImportant.fas {
+    font-size: 25px;
+    color: rgb(0, 0, 8);
+    cursor: pointer;
+}
